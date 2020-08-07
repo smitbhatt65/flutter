@@ -1,4 +1,4 @@
 main(){
-    var fname='smit'
-    print('hello $fname')
+    var fname='smit';
+    print('hello $fname');
 }
